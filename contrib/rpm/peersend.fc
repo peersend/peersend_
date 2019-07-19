@@ -1,0 +1,8 @@
+/usr/bin/peersend-cli		--	gen_context(system_u:object_r:peersend_exec_t,s0)
+/usr/sbin/peersendd		--	gen_context(system_u:object_r:peersend_exec_t,s0)
+/usr/lib(64)?/peersend/peersendd		--	gen_context(system_u:object_r:peersend_exec_t,s0)
+
+/etc/peersend(/.*)?		gen_context(system_u:object_r:peersend_conf_t,s0)
+/var/lib/peersend(/.*)?		gen_context(system_u:object_r:peersend_var_lib_t,s0)
+
+(/var)?/run/peersendd(/.*)?   gen_context(system_u:object_r:peersend_var_run_t,s0)

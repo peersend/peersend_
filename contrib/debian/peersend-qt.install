@@ -1,0 +1,6 @@
+usr/local/bin/peersend-qt usr/bin
+share/pixmaps/peersend32.xpm usr/share/pixmaps
+share/pixmaps/peersend16.xpm usr/share/pixmaps
+share/pixmaps/peersend128.png usr/share/pixmaps
+debian/peersend-qt.desktop usr/share/applications
+debian/peersend-qt.protocol usr/share/kde4/services/

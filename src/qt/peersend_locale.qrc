@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/peersend_bg.qm</file>
+        <file alias="ca">locale/peersend_ca.qm</file>
+        <file alias="cs">locale/peersend_cs.qm</file>
+        <file alias="da">locale/peersend_da.qm</file>
+        <file alias="de">locale/peersend_de.qm</file>
+        <file alias="en">locale/peersend_en.qm</file>
+        <file alias="en_GB">locale/peersend_en_GB.qm</file>
+        <file alias="en_US">locale/peersend_en_US.qm</file>
+        <file alias="eo">locale/peersend_eo.qm</file>
+        <file alias="es">locale/peersend_es.qm</file>
+        <file alias="es_ES">locale/peersend_es_ES.qm</file>
+        <file alias="fi">locale/peersend_fi.qm</file>
+        <file alias="fr_FR">locale/peersend_fr_FR.qm</file>
+        <file alias="hi_IN">locale/peersend_hi_IN.qm</file>
+        <file alias="hr">locale/peersend_hr.qm</file>
+        <file alias="hr_HR">locale/peersend_hr_HR.qm</file>
+        <file alias="it">locale/peersend_it.qm</file>
+        <file alias="ja">locale/peersend_ja.qm</file>
+        <file alias="ko_KR">locale/peersend_ko_KR.qm</file>
+        <file alias="lt_LT">locale/peersend_lt_LT.qm</file>
+        <file alias="nl">locale/peersend_nl.qm</file>
+        <file alias="pl">locale/peersend_pl.qm</file>
+        <file alias="pt">locale/peersend_pt.qm</file>
+        <file alias="pt_BR">locale/peersend_pt_BR.qm</file>
+        <file alias="ro_RO">locale/peersend_ro_RO.qm</file>
+        <file alias="ru">locale/peersend_ru.qm</file>
+        <file alias="sk">locale/peersend_sk.qm</file>
+        <file alias="sv">locale/peersend_sv.qm</file>
+        <file alias="tr">locale/peersend_tr.qm</file>
+        <file alias="uk">locale/peersend_uk.qm</file>
+        <file alias="vi">locale/peersend_vi.qm</file>
+        <file alias="zh_CN">locale/peersend_zh_CN.qm</file>
+        <file alias="zh_TW">locale/peersend_zh_TW.qm</file>
+    </qresource>
+</RCC>

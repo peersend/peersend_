@@ -1,0 +1,3 @@
+usr/local/bin/peersendd usr/bin
+usr/local/bin/peersend-cli usr/bin
+debian/examples/peersend.conf etc/peersend

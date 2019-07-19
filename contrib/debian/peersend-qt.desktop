@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=peersend
+Comment=peersend P2P Cryptocurrency
+Comment[fr]=peersend, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=peersend, eşten eşe kriptografik sanal para birimi
+Exec=peersend-qt %u
+Terminal=false
+Type=Application
+Icon=peersend128
+MimeType=x-scheme-handler/peersend;
+Categories=Office;Finance;
+StartupWMClass=peersend-qt
